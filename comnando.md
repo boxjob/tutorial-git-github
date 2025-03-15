@@ -28,3 +28,7 @@ git commit -m 'mensagem sobre o commit'
 ## Como enviar as coisas da minha máquina para o github?
 
 git push
+
+## O que  é o arquivo readme
+
+ arquivo readme.md é o arquivo de entrada do repositório, nele nós temos informações sobre setup de ambiente e tecnologias.
