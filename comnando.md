@@ -53,4 +53,13 @@ git checkout -b (nome_da_branch)
 
 ## Como alternar entre as branch 
 
-git checkout no_branch
+git checkout nome_branch
+
+## Como fazer pull de uma branch expecifica
+
+git pull origin nome_da_branch
+
+## Como juntar 2 branch localmente 
+
+git merge (nome_da_branch)
+
