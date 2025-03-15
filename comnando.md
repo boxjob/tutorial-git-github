@@ -32,3 +32,11 @@ git push
 ## O que  é o arquivo readme
 
  arquivo readme.md é o arquivo de entrada do repositório, nele nós temos informações sobre setup de ambiente e tecnologias.
+
+## O que são banch
+
+branchs são ramificações de um mesmo código que permitem que duas ou mais pessoas trabalhem em uma mesma versão.
+
+## O que é merge
+
+Merge consiste na união de 2 versões diferentes de um mesmo código
