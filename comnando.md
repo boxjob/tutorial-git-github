@@ -40,3 +40,4 @@ branchs são ramificações de um mesmo código que permitem que duas ou mais pe
 ## O que é merge
 
 Merge consiste na união de 2 versões diferentes de um mesmo código
+Podendo ser 2 versões de um mesmo branch e 2 branchs diferentes
