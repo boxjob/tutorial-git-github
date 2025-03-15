@@ -24,3 +24,7 @@ quem alterou
 identificador do commit
 
 git commit -m 'mensagem sobre o commit'
+
+## Como enviar as coisas da minha máquina para o github?
+
+git push
