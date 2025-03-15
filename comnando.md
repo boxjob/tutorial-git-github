@@ -41,3 +41,16 @@ branchs são ramificações de um mesmo código que permitem que duas ou mais pe
 
 Merge consiste na união de 2 versões diferentes de um mesmo código
 Podendo ser 2 versões de um mesmo branch e 2 branchs diferentes
+
+
+## Como atualizar o repositório local com e mesmo repositório remoto
+
+git pull
+
+## Como cria uma nova branch 
+
+git checkout -b (nome_da_branch)
+
+## Como alternar entre as branch 
+
+git checkout no_branch
